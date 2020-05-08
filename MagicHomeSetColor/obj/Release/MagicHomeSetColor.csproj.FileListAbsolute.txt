@@ -1,0 +1,10 @@
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHomeSetColor\bin\Release\MagicHomeSetColor.exe.config
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHomeSetColor\bin\Release\MagicHomeSetColor.exe
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHomeSetColor\bin\Release\MagicHomeSetColor.pdb
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHomeSetColor\bin\Release\MagicHome.dll
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHomeSetColor\bin\Release\MagicHome.pdb
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHomeSetColor\obj\Release\MagicHomeSetColor.csprojAssemblyReference.cache
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHomeSetColor\obj\Release\MagicHomeSetColor.csproj.CopyComplete
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHomeSetColor\obj\Release\MagicHomeSetColor.exe
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHomeSetColor\obj\Release\MagicHomeSetColor.pdb
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHomeSetColor\obj\Release\MagicHomeSetColor.csproj.CoreCompileInputs.cache

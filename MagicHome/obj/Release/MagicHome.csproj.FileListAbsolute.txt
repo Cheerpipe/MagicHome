@@ -1,0 +1,6 @@
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHome\bin\Release\MagicHome.dll
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHome\bin\Release\MagicHome.pdb
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHome\obj\Release\MagicHome.dll
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHome\obj\Release\MagicHome.pdb
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHome\obj\Release\MagicHome.csprojAssemblyReference.cache
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHome\obj\Release\MagicHome.csproj.CoreCompileInputs.cache

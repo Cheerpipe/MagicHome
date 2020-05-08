@@ -1,0 +1,12 @@
+C:\Users\Felipe\source\repos\MagicHome\MagicHome\bin\Debug\MagicHome.dll
+C:\Users\Felipe\source\repos\MagicHome\MagicHome\bin\Debug\MagicHome.pdb
+C:\Users\Felipe\source\repos\MagicHome\MagicHome\obj\Debug\MagicHome.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\MagicHome\MagicHome\obj\Debug\MagicHome.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\MagicHome\MagicHome\obj\Debug\MagicHome.dll
+C:\Users\Felipe\source\repos\MagicHome\MagicHome\obj\Debug\MagicHome.pdb
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHome\bin\Debug\MagicHome.dll
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHome\bin\Debug\MagicHome.pdb
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHome\obj\Debug\MagicHome.csprojAssemblyReference.cache
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHome\obj\Debug\MagicHome.dll
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHome\obj\Debug\MagicHome.pdb
+D:\Warez\Proyectos C#\MagicHome\MagicHome\MagicHome\obj\Debug\MagicHome.csproj.CoreCompileInputs.cache
